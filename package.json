@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpityo/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpityo/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/mpityo/Note-Taker#readme"
+}
