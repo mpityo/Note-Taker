@@ -4,7 +4,8 @@ const { nanoid } = require('nanoid');
 const notesArr = require('../../db/db.json');
 
 router.get('/notes', (req, res) => {
-    res.sendFile(path.join(__dirname, '../../db/db.json'));
+    let results = notesArr;
+    res.json(results);
 });
 
 router.post("/notes", (req, res) => {
