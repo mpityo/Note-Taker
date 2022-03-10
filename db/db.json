@@ -1,7 +1,22 @@
 [
   {
-    "title": "asdfvsdvcx  a dfgaerger ",
-    "text": "adsfas",
-    "id": "9Fk5z4FbNjEM9Ye5sq95Z"
+    "title": "Grocery list",
+    "text": "1. Bananas\n2. Grapes\n3. Cilantro\n4. Ground turkey\n5. Wine...lots of wine\n6. Fruit loops\n7. Eggs",
+    "id": "a-wCR8VCxy-yF06I4e45S"
+  },
+  {
+    "title": "GIT commands",
+    "text": "push\npull\nfetch\nclone\nbranch (-b for new branch)\nmerge\ncommit\nstash\n",
+    "id": "YnQVBJDQq_Rp9uFkOSQbT"
+  },
+  {
+    "title": "API fetch commands",
+    "text": "get\npost\ndelete",
+    "id": "OZVl3lwsUIbbuB7jXwIPC"
+  },
+  {
+    "title": "Restaurants to try",
+    "text": "Portillos\nTim Hortons\nBurns",
+    "id": "bBmn6rlNvVI-KOue3Zt68"
   }
 ]
