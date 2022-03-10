@@ -5,8 +5,7 @@ const notesArr = require('../../db/db.json');
 const { createNewNote } = require("../../lib/notes");
 
 router.get('/notes', (req, res) => {
-    let results = notesArr;
-    res.json(results);
+    res.json(notesArr);
 });
 
 router.post("/notes", (req, res) => {
