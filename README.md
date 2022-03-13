@@ -1,7 +1,7 @@
 # Note Taker
 Create, view, and delete notes on this server side application. View them from any device at anytime!
 <br>
-View it on Heroku [here](https://hidden-dusk-31119.herokuapp.com/)
+View it on Heroku [here](https://note-taker-31119.herokuapp.com/)
 <br><br>
 **AFTER DELETING a note, close the page and open it again to see the changes**
 
